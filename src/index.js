@@ -18,9 +18,9 @@ const routing = (
     <div>
       <Switch>
         <Route exact path="/" component={Home} />
-        <Route path="/project" component={Project} />
-        <Route path="/contact" component={Contact} />
-        <Route path="/youtube" component={Youtube} />
+        <Route path="/#/project" component={Project} />
+        <Route path="/#/contact" component={Contact} />
+        <Route path="/#/youtube" component={Youtube} />
         <Route component={Notfound} />
       </Switch>
     </div>
