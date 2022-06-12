@@ -12,7 +12,7 @@ class Project extends React.Component {
           <p class="myoccupation">Software Developer</p>
           <ul class="nav nav-pills nav-justified" id="navigation">
             <li class="nav-item">
-              <a class="nav-link " href="/">
+              <a class="nav-link " href="/Vijayakumar_Portfolio">
                 Home
               </a>
             </li>
